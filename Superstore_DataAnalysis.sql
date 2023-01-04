@@ -286,24 +286,3 @@ GROUP BY prop.PropertyCity, prod.ProductName
 ORDER BY Sales DESC
 LIMIT 5; 
 
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
